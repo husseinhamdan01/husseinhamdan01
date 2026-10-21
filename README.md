@@ -2,35 +2,39 @@
 
 # Hussein Hamdan
 
-**Computational Designer | Complex Geometry & Adaptive Design Systems | BIM Automation**
+<p>
+  <img src="assets/badge-computational-design.svg" alt="Computational Design" height="34">
+  <img src="assets/badge-complex-geometry.svg" alt="Complex Geometry" height="34">
+  <img src="assets/badge-adaptive-systems.svg" alt="Adaptive Systems" height="34">
+  <img src="assets/badge-bim-automation.svg" alt="BIM Automation" height="34">
+  <img src="assets/badge-app-development.svg" alt="App Development" height="34">
+</p>
 
-**Grasshopper · Rhino.Inside.Revit · pyRevit · C# · Python**
+**Computational Designer · Complex Geometry & Adaptive Design Systems · BIM Automation**
 
-I work at the intersection of computational design and software development. I build workflows for complex geometry, adaptive design systems and BIM automation, alongside web and Android apps that solve problems I encounter in daily life.
+I build design systems, automate workflows and develop apps. My work connects complex geometry and computational thinking with practical software for design work and daily life.
 
-## Design through computation
+## What I build
 
-- **Complex geometry & adaptive systems** — developing parametric workflows with Grasshopper.
-- **Rhino ↔ Revit workflows** — connecting design geometry with BIM through Rhino.Inside.Revit.
-- **BIM automation** — building scripts and tools with pyRevit, C# and Python to reduce repetitive work.
+**Geometry & adaptive systems**  
+Parametric design workflows shaped by rules, relationships and constraints.
 
-## Selected work
+**BIM automation**  
+Design-to-BIM workflows and automation that reduce repetitive work and connect geometry with project information.
 
-### [Rhino → Revit Import Tracker](https://github.com/husseinhamdan01/HTML-Viewer/blob/main/Rhino%20To%20Revit%20Excute%20Time.html)
+**Apps & everyday systems**  
+Web and Android applications built around the way I actually work.
 
-A browser-based comparison of Rhino-to-Revit import methods. It visualizes execution times for component family forms, meshes and DirectShapes to help assess performance and geometry trade-offs.
+## In development
 
-### Raqeem · Android & web
+### Raqeem
 
-A personal app ecosystem I’m developing for tasks, expenses, fitness, habits, reminders, notes and tracking. It brings these workflows into an Android app and a web dashboard, with shared interfaces and synchronization.
+My personal app ecosystem for tasks, expenses, fitness, habits, reminders, notes and tracking. An Android app and web dashboard with shared workflows and synchronization.
 
-The source is currently private.
+*Active development · Private source*
 
-## Tools I work with
+## Public work
 
-| Computational design & BIM | App development |
-| --- | --- |
-| Grasshopper, Rhino.Inside.Revit, pyRevit | Python, JavaScript, TypeScript |
-| C#, Python | React, Capacitor, Android, Vercel |
+### [Geometry-to-BIM Performance Study](https://github.com/husseinhamdan01/HTML-Viewer/blob/main/Rhino%20To%20Revit%20Excute%20Time.html)
 
-I’m interested in making computational design workflows more practical and building software that is clear, useful and worth maintaining.
+An interactive study comparing geometry-transfer methods, execution times and the trade-offs between model structure and performance.
